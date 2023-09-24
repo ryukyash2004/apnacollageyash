@@ -1,4 +1,4 @@
 # apnacollageyash
 first repository
 <br>
-author- abhishek sawarnakar
+author- yash (swarnakar)
